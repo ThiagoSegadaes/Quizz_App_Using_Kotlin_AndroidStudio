@@ -1,5 +1,6 @@
 # Quiz-App-
-My first android app build with kotlin. It's a quiz app with decent UI and intents.
+Android app build with kotlin. It's a quiz app with decent UI and intents.
+
 # Screenshots
 
 
